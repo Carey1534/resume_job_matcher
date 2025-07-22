@@ -1,4 +1,7 @@
 # main.py
+bash
+pip install openai
+
 import openai
 from resume_parser import extract_text_from_pdf
 from prompt_templates import resume_feedback_prompt
